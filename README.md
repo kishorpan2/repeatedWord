@@ -5,3 +5,9 @@
 ## Issues encountered during deployment
 
 * I had to deploy twice and I am not sure why it did not work the first time
+
+## Setting warmers
+![Setup](./assets/warmer.png)
+
+## Testing
+![Testing](./assets/test.png)
