@@ -7,7 +7,8 @@
 * I had to deploy twice and I am not sure why it did not work the first time
 
 ## Setting warmers
-![Setup](./assets/warmer.png)
-
+![Setup](./assets/setupwarmer.png)
+## Create Rule
+![Rule](./assets/createRule.png)
 ## Testing
 ![Testing](./assets/test.png)
